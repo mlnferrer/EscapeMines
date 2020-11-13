@@ -1,0 +1,5 @@
+C:\Users\mlnfe\Source\Repos\EscapeMines\src\EscapeMines.Data.Contracts\bin\Debug\EscapeMines.Data.Contracts.dll
+C:\Users\mlnfe\Source\Repos\EscapeMines\src\EscapeMines.Data.Contracts\bin\Debug\EscapeMines.Data.Contracts.pdb
+C:\Users\mlnfe\Source\Repos\EscapeMines\src\EscapeMines.Data.Contracts\obj\Debug\EscapeMines.Data.Contracts.csprojAssemblyReference.cache
+C:\Users\mlnfe\Source\Repos\EscapeMines\src\EscapeMines.Data.Contracts\obj\Debug\EscapeMines.Data.Contracts.dll
+C:\Users\mlnfe\Source\Repos\EscapeMines\src\EscapeMines.Data.Contracts\obj\Debug\EscapeMines.Data.Contracts.pdb

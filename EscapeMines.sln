@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3118B554-FE5E-4030-B4A4-4F510BC1088D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{459D0A94-709F-45BE-993B-2575D222114E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeMines.ConsoleApp", "src\EscapeMines.ConsoleApp\EscapeMines.ConsoleApp.csproj", "{2E6FD7C2-B6A7-4B97-ACE3-E521AB505220}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeMines.Data.Contracts", "src\EscapeMines.Data.Contracts\EscapeMines.Data.Contracts.csproj", "{54EE81D1-B37A-4EE1-ADE5-E72276B568B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeMines.Data.Repository", "src\EscapeMines.Data.Repository\EscapeMines.Data.Repository.csproj", "{BD9CC396-99F6-4F00-94FA-1EEE14EC585B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeMines.Data.Repository.UnitTests", "EscapeMines.Data.Repository.UnitTests\EscapeMines.Data.Repository.UnitTests.csproj", "{9B1F2204-CFD0-4989-BE31-87469B81DAB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E6FD7C2-B6A7-4B97-ACE3-E521AB505220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6FD7C2-B6A7-4B97-ACE3-E521AB505220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E6FD7C2-B6A7-4B97-ACE3-E521AB505220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E6FD7C2-B6A7-4B97-ACE3-E521AB505220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54EE81D1-B37A-4EE1-ADE5-E72276B568B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54EE81D1-B37A-4EE1-ADE5-E72276B568B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54EE81D1-B37A-4EE1-ADE5-E72276B568B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54EE81D1-B37A-4EE1-ADE5-E72276B568B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD9CC396-99F6-4F00-94FA-1EEE14EC585B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9CC396-99F6-4F00-94FA-1EEE14EC585B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9CC396-99F6-4F00-94FA-1EEE14EC585B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9CC396-99F6-4F00-94FA-1EEE14EC585B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B1F2204-CFD0-4989-BE31-87469B81DAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1F2204-CFD0-4989-BE31-87469B81DAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B1F2204-CFD0-4989-BE31-87469B81DAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1F2204-CFD0-4989-BE31-87469B81DAB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2E6FD7C2-B6A7-4B97-ACE3-E521AB505220} = {3118B554-FE5E-4030-B4A4-4F510BC1088D}
+		{54EE81D1-B37A-4EE1-ADE5-E72276B568B8} = {3118B554-FE5E-4030-B4A4-4F510BC1088D}
+		{BD9CC396-99F6-4F00-94FA-1EEE14EC585B} = {3118B554-FE5E-4030-B4A4-4F510BC1088D}
+		{9B1F2204-CFD0-4989-BE31-87469B81DAB1} = {459D0A94-709F-45BE-993B-2575D222114E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7102D2B1-8FD5-4A4E-B2DB-9A8242AACB84}
+	EndGlobalSection
+EndGlobal

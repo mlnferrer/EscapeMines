@@ -1,0 +1,10 @@
+C:\Users\mlnfe\Source\Repos\EscapeMines\src\EscapeMines.Data.Repository\bin\Debug\EscapeMines.Data.Repository.dll
+C:\Users\mlnfe\Source\Repos\EscapeMines\src\EscapeMines.Data.Repository\bin\Debug\EscapeMines.Data.Repository.pdb
+C:\Users\mlnfe\Source\Repos\EscapeMines\src\EscapeMines.Data.Repository\bin\Debug\EscapeMines.Data.Contracts.dll
+C:\Users\mlnfe\Source\Repos\EscapeMines\src\EscapeMines.Data.Repository\bin\Debug\EscapeMines.Data.Contracts.pdb
+C:\Users\mlnfe\Source\Repos\EscapeMines\src\EscapeMines.Data.Repository\obj\Debug\EscapeMines.Data.Repository.csprojAssemblyReference.cache
+C:\Users\mlnfe\Source\Repos\EscapeMines\src\EscapeMines.Data.Repository\obj\Debug\EscapeMines.Data.Repository.Properties.Resources.resources
+C:\Users\mlnfe\Source\Repos\EscapeMines\src\EscapeMines.Data.Repository\obj\Debug\EscapeMines.Data.Repository.csproj.GenerateResource.cache
+C:\Users\mlnfe\Source\Repos\EscapeMines\src\EscapeMines.Data.Repository\obj\Debug\EscapeMines.Data.Repository.csproj.CopyComplete
+C:\Users\mlnfe\Source\Repos\EscapeMines\src\EscapeMines.Data.Repository\obj\Debug\EscapeMines.Data.Repository.dll
+C:\Users\mlnfe\Source\Repos\EscapeMines\src\EscapeMines.Data.Repository\obj\Debug\EscapeMines.Data.Repository.pdb
